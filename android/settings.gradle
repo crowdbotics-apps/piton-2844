@@ -1,0 +1,3 @@
+rootProject.name = 'piton_2844'
+
+include ':app'
